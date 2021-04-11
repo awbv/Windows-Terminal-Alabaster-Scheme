@@ -6,7 +6,7 @@ For now, the only way to install custom color scheme is to manually copy them in
 
 # Preview
 
-![Preview of an Alabaster theme in Windows Terminal](https://https://github.com/awbv/Windows-Terminal-Alabaster-Scheme/blob/main/preview.png)
+![Preview of an Alabaster theme in Windows Terminal](preview.png)
 
 # License
 [MIT License](https://https://github.com/awbv/Windows-Terminal-Alabaster-Scheme/blob/main/LICENSE.txt)
