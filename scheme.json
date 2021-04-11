@@ -1,0 +1,27 @@
+{
+    "schemes": [
+        {
+            "name": "Alabaster",
+            "cursorColor": "#007ACC",
+            "selectionBackground": "#BFDBFE",
+            "background": "#F7F7F7",
+            "foreground": "#000000",
+            "black": "#000000",
+            "blue": "#325CC0",
+            "cyan": "#0083B2",
+            "green": "#448C27",
+            "purple": "#7A3E9D",
+            "red": "#AA3731",
+            "white": "#AAAAAA",
+            "yellow": "#CB9000",
+            "brightBlack": "#777777",
+            "brightBlue": "#007ACC",
+            "brightCyan": "#00AACB",
+            "brightGreen": "#60CB00",
+            "brightPurple": "#E64CE6",
+            "brightRed": "#F05050",
+            "brightWhite": "#AAAAAA",
+            "brightYellow": "#FFBC5D"
+        }
+    ]
+}
